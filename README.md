@@ -26,6 +26,8 @@ Notebooks are hyperlinked to be viewed on nbviewer.org, but are best viewed in a
 - [01_JP_pooled_GEA_kickoff](https://nbviewer.org/github/brandonlind/jack_pine_natural_populations/blob/main/02_baypass/01_JP_pooled_GEA_kickoff.ipynb) - create covariance matrix for coastal variety structure correction and submit GEA jobs to slurm
 - [02_JP_pooled_GEA_gather.ipynb](https://nbviewer.org/github/brandonlind/jack_pine_natural_populations/blob/main/02_baypass/02_JP_pooled_GEA_gather.ipynb) - gather baypass jobs and concatenate results into one dataframe
 
+[04_PCA_kmeans](https://nbviewer.org/github/brandonlind/jack_pine_natural_populations/tree/main/04_PCA_kmeans/)
+- [01_get_PCA_clusters_from_kmeans](https://nbviewer.org/github/brandonlind/jack_pine_natural_populations/blob/main/04_PCA_kmeans/01_get_PCA_clusters_from_kmeans.ipynb) - use PCA to assign populations to groups using k-means clustering
 ---
 
 pythonimports module seen in notebooks is here: https://github.com/brandonlind/pythonimports
