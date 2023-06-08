@@ -23,7 +23,7 @@ Lind BM. 2023. GitHub.com/brandonlind/offset_validation: Preprint release (Versi
 Notebooks are hyperlinked to be viewed on nbviewer.org, but are best viewed in a jupyter session so that cells can be collapsed or scrolled (html and nbviewer versions, links below do not allow scrolling).
 
 [02_baypass](https://nbviewer.org/github/brandonlind/jack_pine_natural_populations/tree/main/02_baypass/)
-- [01_JP_pooled_GEA_kickoff](https://nbviewer.org/github/brandonlind/jack_pine_natural_populations/blob/main/02_baypass/01_JP_pooled_GEA_kickoff.ipynb)
+- [01_JP_pooled_GEA_kickoff](https://nbviewer.org/github/brandonlind/jack_pine_natural_populations/blob/main/02_baypass/01_JP_pooled_GEA_kickoff.ipynb) - create covariance matrix for coastal variety structure correction and submit GEA jobs to slurm
 
 ---
 
