@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/651215149.svg)](https://zenodo.org/badge/latestdoi/651215149)
+
 ## Usage
 
 This repository contains code used in multiple manuscripts. If you use or are inspired by this code, please cite appropriate DOIs (updates coming) or contact [brandonlind](https://github.com/brandonlind) for citation.
@@ -10,7 +12,7 @@ and S. N. Aitken. 2023. How useful is genomic data for predicting  maladaptatio
 
 or code
 ```
-Lind BM. 2023. GitHub.com/brandonlind/jack_pine_natural_populations: Revision Release (Version 1.1). DOI TBD
+Lind BM. 2023. GitHub.com/brandonlind/jack_pine_natural_populations: Offset Revision 1 (v1.0.0). Zenodo. https://doi.org/10.5281/zenodo.8018892
 
 Lind BM. 2023. GitHub.com/brandonlind/offset_validation: Preprint release (Version 1.0.0). Zendodo (2023):  DOI: https://doi.org/10.5281/zenodo.7641225
 ```
